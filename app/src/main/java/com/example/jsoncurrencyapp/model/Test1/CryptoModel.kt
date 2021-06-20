@@ -1,4 +1,4 @@
-package com.example.jsoncurrencyapp.model
+package com.example.jsoncurrencyapp.model.Test1
 
 import com.google.gson.annotations.SerializedName
 
